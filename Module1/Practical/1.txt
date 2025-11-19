@@ -1,0 +1,4 @@
+* LAB EXERCISE: Create Github account & make repository.
+
+Github account: https://github.com/Chintanchauhan0610
+repository: https://github.com/Chintanchauhan0610/Frontend-Assignment
